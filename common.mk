@@ -1,5 +1,5 @@
 #Common headers
-common_includes := hardware/qcom/display-msm8226-msm8226/libgralloc
+common_includes := hardware/qcom/display-msm8226/libgralloc
 common_includes += hardware/qcom/display-msm8226/liboverlay
 common_includes += hardware/qcom/display-msm8226/libcopybit
 common_includes += hardware/qcom/display-msm8226/libqdutils
